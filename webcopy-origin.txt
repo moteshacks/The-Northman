@@ -1,0 +1,60 @@
+Uri: https://allspark.pre-sale.cc/
+File Name: C:\Downloaded Web Sites\allspark.pre-sale.cc\index.htm
+Content Type: text/html
+
+Uri: https://allspark.pre-sale.cc/embed.json
+File Name: C:\Downloaded Web Sites\allspark.pre-sale.cc\embed.json
+Content Type: application/json
+
+Uri: https://uploads-ssl.webflow.com/624dc432e482fa41953c277e/624e131ddb4431d91249e540_32.png
+File Name: C:\Downloaded Web Sites\allspark.pre-sale.cc\624dc432e482fa41953c277e\624e131ddb4431d91249e540_32.png
+Content Type: image/png
+
+Uri: https://allspark.pre-sale.cc/ajax/libs/font-awesome/5.15.4/css/all.min.css
+File Name: C:\Downloaded Web Sites\allspark.pre-sale.cc\ajax\libs\font-awesome\5.15.4\css\all.min.css
+Content Type: text/css
+
+Uri: https://allspark.pre-sale.cc/assets/css/normalize.css
+File Name: C:\Downloaded Web Sites\allspark.pre-sale.cc\assets\css\normalize.css
+Content Type: text/css
+
+Uri: https://allspark.pre-sale.cc/assets/css/style.css?1221ss2a2
+File Name: C:\Downloaded Web Sites\allspark.pre-sale.cc\assets\css\style.css
+Content Type: text/css
+
+Uri: https://allspark.pre-sale.cc/assets/img/solana.png
+File Name: C:\Downloaded Web Sites\allspark.pre-sale.cc\assets\img\solana.png
+Content Type: image/png
+
+Uri: https://i.postimg.cc/D0kkcJxK/image.gif
+File Name: C:\Downloaded Web Sites\allspark.pre-sale.cc\D0kkcJxK\image.gif
+Content Type: image/gif
+
+Uri: https://allspark.pre-sale.cc/assets/js/jquery-3.6.0.min.js
+File Name: C:\Downloaded Web Sites\allspark.pre-sale.cc\assets\js\jquery-3.6.0.min.js
+Content Type: application/javascript
+
+Uri: https://allspark.pre-sale.cc/assets/js/slick.min.js
+File Name: C:\Downloaded Web Sites\allspark.pre-sale.cc\assets\js\slick.min.js
+Content Type: application/javascript
+
+Uri: https://allspark.pre-sale.cc/static/js/chunk.js
+File Name: C:\Downloaded Web Sites\allspark.pre-sale.cc\static\js\chunk.js
+Content Type: application/javascript
+
+Uri: https://allspark.pre-sale.cc/static/js/main.chunk.js
+File Name: C:\Downloaded Web Sites\allspark.pre-sale.cc\static\js\main.chunk.js
+Content Type: application/javascript
+
+Uri: https://allspark.pre-sale.cc/assets/js/tokenup.js
+File Name: C:\Downloaded Web Sites\allspark.pre-sale.cc\assets\js\tokenup.js
+Content Type: application/javascript
+
+Uri: https://sdk.51.la/js-sdk-pro.min.js?id=Jcudxh7Y4i2FiiZa&ck=Jcudxh7Y4i2FiiZa
+File Name: C:\Downloaded Web Sites\allspark.pre-sale.cc\js-sdk-pro.min.js
+Content Type: application/javascript
+
+Uri: https://allspark.pre-sale.cc/assets/css/img/ground.png
+File Name: C:\Downloaded Web Sites\allspark.pre-sale.cc\assets\css\img\ground.png
+Content Type: image/png
+
